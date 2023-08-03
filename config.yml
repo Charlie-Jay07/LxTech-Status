@@ -50,6 +50,10 @@ params:
     - category: LxTechnologies Shards
       name: Dashboard
       description: Help's manage the servers with settings and overviews.
+    - name: Database
+      category: LxTechnologies Shards
+      description: The database is where all the levels, guilds, and other root data
+        is stored.
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#e74a4c"
   enableLastMod: true
