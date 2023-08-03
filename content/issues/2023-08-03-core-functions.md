@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Core functions
+title: Announcement
 date: 2023-08-03T09:32:06.325Z
 resolved: true
 draft: false
