@@ -2,7 +2,7 @@ title: "Service: LxTechnologies Bot"
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://starlit-eclair-6457cb.netlify.app/
+baseURL: https://lx-technologies-status.netlify.app/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
