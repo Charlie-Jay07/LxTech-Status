@@ -41,6 +41,7 @@ params:
       description: The web frontend for the application.
       category: LxTechnologies Shards
       link: https://example.com/
+      partial: https://starlit-eclair-6457cb.netlify.app/
     - name: API
       description: This API is to keep services running.
       category: LxTechnologies Shards
