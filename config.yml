@@ -72,8 +72,8 @@ params:
   ok: "#008000"
   categories:
     - name: LxTechnologies Shards
-      closed: false
-      untitled: false
+      closed: true
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
